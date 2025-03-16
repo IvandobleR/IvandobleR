@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">🐝 IvandobleR | Ciberseguridad y Pentesting 🔥</h1>
 
-<!--
-**IvandobleR/IvandobleR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">🐝 Soy IvandobleR, un entusiasta de la ciberseguridad y la programación, apenas comenzando en este fascinante mundo. Mi enfoque está en pentesting, hacking ético y automatización de seguridad. Como una abeja en su colmena, estoy construyendo mi conocimiento poco a poco, explorando cada rincón del ciberespacio en busca de nuevos desafíos. 🕵️‍♂️💻🐝</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/c7/24/47/c72447e5c5b537ff5ca156593224509e.gif"  />
+</div>
+
+###
+
+<h2 align="left">🐝 Sobre Mí:</h2>
+
+###
+
+<p align="left">🔹 Explorando vulnerabilidades y aprendiendo sobre seguridad ofensiva.<br>🔹 Creando herramientas y scripts para mejorar la seguridad.<br>🔹 Criandome en la Academia de Ciberseguridad.</p>
+
+###
+
+<h2 align="left">🔧 Tecnologías y Herramientas:</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/¿Ivan?">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%C2%BFIvan?&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">📫Contacto:</h2>
+
+###
+
+<p align="left">📌Instragram(takermetal_14)<br>📌outlook(Coming soon)<br>📌Linkedin(Coming soon)</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
