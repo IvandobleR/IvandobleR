@@ -1,4 +1,4 @@
-<h1 align="center">🐝 Ivan R. | Ciberseguridad y Pentesting 🔥</h1>
+<h1 align="center"> Darien R. | Ciberseguridad y Pentesting </h1>
 
 ###
 
